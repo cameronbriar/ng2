@@ -1,6 +1,6 @@
 ### Up 'n Running w/Angular 2 on AWS CodeStar
 
-[CodeStar](https://news.ycombinator.com/item?id=14149570) is a service provided by AWS to build and deploy apps more quickly. Read more about it here.
+[CodeStar](https://news.ycombinator.com/item?id=14149570) is a service provided by AWS to build and deploy apps more quickly. Read more about it [here](https://aws.amazon.com/codestar/).
 
 In the meantime, let's get more familiar with the tool by deploying a simple Angular 2 application.
 
