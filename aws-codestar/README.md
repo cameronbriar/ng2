@@ -73,7 +73,7 @@ vi index.html
 # update the script src attributes to account for new file locations (e.g. src="assets/js/vendor...")
 ```
 
-Ok. We'll need to fix that process in the future. `todo`
+Ok. We'll need to fix that process in the future. e.g. update `webpack.config.js` to build files into `assets` directory and update the public root directory to `/Prod`. `todo: fixme`
 
 Now we can commit and push our new additions to this AWS repo.
 
